@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="DreamRpgAttributes">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../DreamRpgAttributes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../core.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../core.jar!/" />
+    </SOURCES>
+  </library>
+</component>
